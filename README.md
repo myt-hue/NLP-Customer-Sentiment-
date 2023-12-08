@@ -15,10 +15,12 @@ Main Finding
 
 ### Frequency Distribution of Top 5 Words
 ![image](https://github.com/myt-hue/NLP-Customer-Sentiment-/assets/73657823/ee4a231e-8a6d-415e-b67b-26d533ef439d)
+
 The most commonly tweeted word was 'IPad'.
 
 ### Number of Product Mentions in Tweets
 ![image](https://github.com/myt-hue/NLP-Customer-Sentiment-/assets/73657823/652b2e2f-5905-4cf9-ac10-7b054d9bbf5d)
+
 IPhone has a larger ratio of Positive to Negative Tweets
 
 ### Common Words in Negative Tweets
