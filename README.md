@@ -35,12 +35,10 @@ Study RT's effect on sentiment
 Accurate Tagging
 
 ## Repository Structure 
-You are currently in the README.md file. The 'index.ipynb' file contains the jupyter notebook of the explaratory analysis of the given data that provides step-by-step guide to how we came to our conclusion. 'Images' file contains the images used in this file. The images were taken from the internet.
 ├── Data                             <- Data file used in this project
 ├── Image                            <- Images and Graphs used in this project obtained from external and internal source
 ├── .gitignore                       <- Contains list of files to be ignored from GitHub
 ├── presentation.pdf   <- Slide Presentation of the project
 ├── README.md                        <- Contains README file to be reviewed    
 └── index.ipynb                      <- Jupyter notebook of the project containing codes and analysis
-
 
