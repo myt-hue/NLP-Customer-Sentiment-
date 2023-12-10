@@ -1,5 +1,5 @@
 # NLP-Customer-Sentiment for Google and Apple Products
-![image](https://github.com/myt-hue/NLP-Customer-Sentiment-/assets/73657823/6ac2614a-9555-4a6a-b271-0470b82c33d4)
+![image](https://cdn.cultofmac.com/wp-content/uploads/2012/07/AppleTwitter1.jpg)
 
 Authors: Mytreyi Abburu, Marley Lopez, Dan Rosen
 
