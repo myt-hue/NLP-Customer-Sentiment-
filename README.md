@@ -34,11 +34,14 @@ Balance Tweet Samples
 Study RT's effect on sentiment
 Accurate Tagging
 
+## For more Information
+Visit our Slide Presentation ![website](https://github.com/myt-hue/NLP-Customer-Sentiment-/blob/main/NLP%20Sentiment%20Analysis%20Presentation.pdf) and Notebook ![website](https://github.com/myt-hue/NLP-Customer-Sentiment-/blob/main/NLP_sentiment_analysis.ipynb)
+
 ## Repository Structure 
 ├── Data                             <- Data file used in this project
 ├── Image                            <- Images and Graphs used in this project obtained from external and internal source
 ├── .gitignore                       <- Contains list of files to be ignored from GitHub
-├── presentation.pdf   <- Slide Presentation of the project
+├── presentation.pdf                 <- Slide Presentation of the project
 ├── README.md                        <- Contains README file to be reviewed    
 └── index.ipynb                      <- Jupyter notebook of the project containing codes and analysis
 
